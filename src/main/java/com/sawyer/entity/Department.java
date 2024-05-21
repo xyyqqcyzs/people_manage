@@ -15,6 +15,6 @@ public class Department {
     private int dep_ID;
     private String dep_phone;
     private String dep_name;
-    private String creat_Date;
+    private String creat_date;
 
 }
